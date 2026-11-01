@@ -1,0 +1,12 @@
+{
+  "item.swordofthemorning.sword_of_the_morning": "Меч Зари (3D)",
+  "item.swordofthemorning.sword_of_the_morning_classic": "Меч Зари (Classic 2D)",
+  "item.swordofthemorning.sword_of_the_morning.lore_title": "Рассвет (Dawn)",
+  "item.swordofthemorning.sword_of_the_morning.lore_desc": "Выкован из сердца упавшей звезды. Фамильный клинок дома Дейнов.",
+  "item.swordofthemorning.sword_of_the_morning.effect_speed": "✦ Скорость II при ударе (2 сек)",
+  "item.swordofthemorning.sword_of_the_morning.effect_glowing": "✦ 20% шанс: Свечение цели (10 сек)",
+  "item.swordofthemorning.sword_of_the_morning.effect_unbreakable": "✦ Нерушимый (Бесконечная прочность)",
+  "item.swordofthemorning.sword_of_the_morning.effect_lunge": "✦ ПКМ: Стремительный выпад вперед (перезарядка 1.25 сек)",
+  "command.swordofthemorning.given": "[Рассвет] Вы призвали Меч Зари (Sword of the Morning)!",
+  "command.swordofthemorning.removed": "[Рассвет] Меч Зари вернулся в Звездопад."
+}

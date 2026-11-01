@@ -1,0 +1,33 @@
+{
+	"schemaVersion": 1,
+	"id": "swordofthemorning",
+	"version": "${version}",
+	"name": "ClassicAge Weapons - Sword of the Morning",
+	"description": "Ancestral greatsword Dawn (Sword of the Morning) of House Dayne from Game of Thrones.",
+	"authors": [
+		"Lilsort"
+	],
+	"contact": {
+		"homepage": "https://github.com/Lilsort"
+	},
+	"license": "MIT",
+	"icon": "assets/swordofthemorning/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.lilsort.swordofthemorning.SwordoftheMorning"
+		],
+		"client": [
+			"com.lilsort.swordofthemorning.client.SwordoftheMorningClient"
+		]
+	},
+	"mixins": [
+		"swordofthemorning.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.0",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	}
+}

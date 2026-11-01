@@ -1,0 +1,13 @@
+{
+  "item.swordofthemorning.sword_of_the_morning": "Sword of the Morning (3D)",
+  "item.swordofthemorning.sword_of_the_morning_classic": "Sword of the Morning (Classic 2D)",
+  "item.swordofthemorning.lore_title": "Dawn",
+  "item.swordofthemorning.sword_of_the_morning.lore_title": "Dawn",
+  "item.swordofthemorning.sword_of_the_morning.lore_desc": "Forged from the heart of a fallen star. Ancestral blade of House Dayne.",
+  "item.swordofthemorning.sword_of_the_morning.effect_speed": "✦ Speed II on hit (2s)",
+  "item.swordofthemorning.sword_of_the_morning.effect_glowing": "✦ 20% chance: Glowing (10s)",
+  "item.swordofthemorning.sword_of_the_morning.effect_unbreakable": "✦ Indestructible (Infinite Durability)",
+  "item.swordofthemorning.sword_of_the_morning.effect_lunge": "✦ Right-Click: Forward Lunge (1.25s cooldown)",
+  "command.swordofthemorning.given": "[Dawn] You have summoned the Sword of the Morning!",
+  "command.swordofthemorning.removed": "[Dawn] The Sword of the Morning has returned to Starfall."
+}

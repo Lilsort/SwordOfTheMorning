@@ -1,0 +1,1297 @@
+{
+    "credit": "ClassicAge Weapons - Sword of the Morning (Dawn)",
+    "textures": {
+        "layer0": "swordofthemorning:item/sword_of_the_morning",
+        "particle": "swordofthemorning:item/sword_of_the_morning"
+    },
+    "elements": [
+        {
+            "name": "pommel_crest_cap",
+            "from": [
+                7.0,
+                -8.8,
+                7.5
+            ],
+            "to": [
+                9.0,
+                -8.0,
+                8.5
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        4.0,
+                        0.0,
+                        6.0,
+                        1.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "south": {
+                    "uv": [
+                        4.0,
+                        0.0,
+                        6.0,
+                        1.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "east": {
+                    "uv": [
+                        4.0,
+                        0.0,
+                        5.0,
+                        1.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "west": {
+                    "uv": [
+                        4.0,
+                        0.0,
+                        5.0,
+                        1.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "down": {
+                    "uv": [
+                        4.0,
+                        0.0,
+                        6.0,
+                        1.0
+                    ],
+                    "texture": "#layer0"
+                }
+            }
+        },
+        {
+            "name": "fan_pommel_sunburst",
+            "from": [
+                6.7,
+                -8.2,
+                7.4
+            ],
+            "to": [
+                9.3,
+                -6.0,
+                8.6
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        0.0,
+                        0.0,
+                        4.0,
+                        4.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "south": {
+                    "uv": [
+                        0.0,
+                        0.0,
+                        4.0,
+                        4.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "east": {
+                    "uv": [
+                        4.0,
+                        0.0,
+                        5.5,
+                        3.5
+                    ],
+                    "texture": "#layer0"
+                },
+                "west": {
+                    "uv": [
+                        4.0,
+                        0.0,
+                        5.5,
+                        3.5
+                    ],
+                    "texture": "#layer0"
+                },
+                "up": {
+                    "uv": [
+                        4.0,
+                        0.0,
+                        6.0,
+                        1.5
+                    ],
+                    "texture": "#layer0"
+                },
+                "down": {
+                    "uv": [
+                        4.0,
+                        0.0,
+                        6.0,
+                        1.5
+                    ],
+                    "texture": "#layer0"
+                }
+            }
+        },
+        {
+            "name": "pommel_flare",
+            "from": [
+                7.2,
+                -6.2,
+                7.5
+            ],
+            "to": [
+                8.8,
+                -4.8,
+                8.5
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        4.0,
+                        1.0,
+                        6.0,
+                        3.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "south": {
+                    "uv": [
+                        4.0,
+                        1.0,
+                        6.0,
+                        3.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "east": {
+                    "uv": [
+                        4.0,
+                        1.0,
+                        5.5,
+                        3.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "west": {
+                    "uv": [
+                        4.0,
+                        1.0,
+                        5.5,
+                        3.0
+                    ],
+                    "texture": "#layer0"
+                }
+            }
+        },
+        {
+            "name": "pommel_ferrule",
+            "from": [
+                7.4,
+                -5.0,
+                7.4
+            ],
+            "to": [
+                8.6,
+                -4.2,
+                8.6
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        8.0,
+                        2.0,
+                        10.0,
+                        3.5
+                    ],
+                    "texture": "#layer0"
+                },
+                "south": {
+                    "uv": [
+                        8.0,
+                        2.0,
+                        10.0,
+                        3.5
+                    ],
+                    "texture": "#layer0"
+                },
+                "east": {
+                    "uv": [
+                        8.0,
+                        2.0,
+                        10.0,
+                        3.5
+                    ],
+                    "texture": "#layer0"
+                },
+                "west": {
+                    "uv": [
+                        8.0,
+                        2.0,
+                        10.0,
+                        3.5
+                    ],
+                    "texture": "#layer0"
+                },
+                "down": {
+                    "uv": [
+                        8.0,
+                        2.0,
+                        10.0,
+                        3.5
+                    ],
+                    "texture": "#layer0"
+                }
+            }
+        },
+        {
+            "name": "lower_leather_grip",
+            "from": [
+                7.5,
+                -4.4,
+                7.5
+            ],
+            "to": [
+                8.5,
+                -1.8,
+                8.5
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        6.0,
+                        0.0,
+                        8.0,
+                        4.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "south": {
+                    "uv": [
+                        6.0,
+                        0.0,
+                        8.0,
+                        4.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "east": {
+                    "uv": [
+                        6.0,
+                        0.0,
+                        8.0,
+                        4.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "west": {
+                    "uv": [
+                        6.0,
+                        0.0,
+                        8.0,
+                        4.0
+                    ],
+                    "texture": "#layer0"
+                }
+            }
+        },
+        {
+            "name": "silver_spacer_ring",
+            "from": [
+                7.35,
+                -2.0,
+                7.35
+            ],
+            "to": [
+                8.65,
+                -1.0,
+                8.65
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        8.0,
+                        0.0,
+                        10.0,
+                        2.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "south": {
+                    "uv": [
+                        8.0,
+                        0.0,
+                        10.0,
+                        2.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "east": {
+                    "uv": [
+                        8.0,
+                        0.0,
+                        10.0,
+                        2.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "west": {
+                    "uv": [
+                        8.0,
+                        0.0,
+                        10.0,
+                        2.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "up": {
+                    "uv": [
+                        8.0,
+                        0.0,
+                        10.0,
+                        1.5
+                    ],
+                    "texture": "#layer0"
+                },
+                "down": {
+                    "uv": [
+                        8.0,
+                        0.0,
+                        10.0,
+                        1.5
+                    ],
+                    "texture": "#layer0"
+                }
+            }
+        },
+        {
+            "name": "upper_leather_grip",
+            "from": [
+                7.5,
+                -1.2,
+                7.5
+            ],
+            "to": [
+                8.5,
+                1.6,
+                8.5
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        6.0,
+                        0.0,
+                        8.0,
+                        4.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "south": {
+                    "uv": [
+                        6.0,
+                        0.0,
+                        8.0,
+                        4.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "east": {
+                    "uv": [
+                        6.0,
+                        0.0,
+                        8.0,
+                        4.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "west": {
+                    "uv": [
+                        6.0,
+                        0.0,
+                        8.0,
+                        4.0
+                    ],
+                    "texture": "#layer0"
+                }
+            }
+        },
+        {
+            "name": "guard_collar",
+            "from": [
+                7.3,
+                1.4,
+                7.3
+            ],
+            "to": [
+                8.7,
+                2.0,
+                8.7
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        8.0,
+                        2.0,
+                        10.0,
+                        3.5
+                    ],
+                    "texture": "#layer0"
+                },
+                "south": {
+                    "uv": [
+                        8.0,
+                        2.0,
+                        10.0,
+                        3.5
+                    ],
+                    "texture": "#layer0"
+                },
+                "east": {
+                    "uv": [
+                        8.0,
+                        2.0,
+                        10.0,
+                        3.5
+                    ],
+                    "texture": "#layer0"
+                },
+                "west": {
+                    "uv": [
+                        8.0,
+                        2.0,
+                        10.0,
+                        3.5
+                    ],
+                    "texture": "#layer0"
+                }
+            }
+        },
+        {
+            "name": "crossguard_center_block",
+            "from": [
+                6.6,
+                1.8,
+                7.1
+            ],
+            "to": [
+                9.4,
+                3.6,
+                8.9
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        0.0,
+                        4.0,
+                        3.0,
+                        7.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "south": {
+                    "uv": [
+                        0.0,
+                        4.0,
+                        3.0,
+                        7.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "east": {
+                    "uv": [
+                        6.0,
+                        4.0,
+                        8.0,
+                        7.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "west": {
+                    "uv": [
+                        6.0,
+                        4.0,
+                        8.0,
+                        7.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "up": {
+                    "uv": [
+                        6.0,
+                        4.0,
+                        8.0,
+                        5.5
+                    ],
+                    "texture": "#layer0"
+                },
+                "down": {
+                    "uv": [
+                        6.0,
+                        4.0,
+                        8.0,
+                        5.5
+                    ],
+                    "texture": "#layer0"
+                }
+            }
+        },
+        {
+            "name": "crossguard_left_inner",
+            "from": [
+                5.2,
+                2.0,
+                7.3
+            ],
+            "to": [
+                6.8,
+                3.4,
+                8.7
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        3.0,
+                        4.0,
+                        4.5,
+                        7.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "south": {
+                    "uv": [
+                        3.0,
+                        4.0,
+                        4.5,
+                        7.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "east": {
+                    "uv": [
+                        6.0,
+                        4.0,
+                        7.5,
+                        6.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "west": {
+                    "uv": [
+                        6.0,
+                        4.0,
+                        7.5,
+                        6.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "up": {
+                    "uv": [
+                        6.0,
+                        4.0,
+                        7.5,
+                        5.5
+                    ],
+                    "texture": "#layer0"
+                },
+                "down": {
+                    "uv": [
+                        6.0,
+                        4.0,
+                        7.5,
+                        5.5
+                    ],
+                    "texture": "#layer0"
+                }
+            }
+        },
+        {
+            "name": "crossguard_left_mid",
+            "from": [
+                4.0,
+                2.8,
+                7.4
+            ],
+            "to": [
+                5.4,
+                4.6,
+                8.6
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        3.5,
+                        4.0,
+                        5.0,
+                        7.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "south": {
+                    "uv": [
+                        3.5,
+                        4.0,
+                        5.0,
+                        7.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "east": {
+                    "uv": [
+                        6.0,
+                        4.0,
+                        7.5,
+                        6.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "west": {
+                    "uv": [
+                        6.0,
+                        4.0,
+                        7.5,
+                        6.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "up": {
+                    "uv": [
+                        6.0,
+                        4.0,
+                        7.5,
+                        5.5
+                    ],
+                    "texture": "#layer0"
+                },
+                "down": {
+                    "uv": [
+                        6.0,
+                        4.0,
+                        7.5,
+                        5.5
+                    ],
+                    "texture": "#layer0"
+                }
+            }
+        },
+        {
+            "name": "crossguard_left_tip",
+            "from": [
+                3.3,
+                4.2,
+                7.5
+            ],
+            "to": [
+                4.3,
+                6.4,
+                8.5
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        4.0,
+                        4.0,
+                        6.0,
+                        7.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "south": {
+                    "uv": [
+                        4.0,
+                        4.0,
+                        6.0,
+                        7.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "east": {
+                    "uv": [
+                        6.0,
+                        4.0,
+                        7.5,
+                        6.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "west": {
+                    "uv": [
+                        6.0,
+                        4.0,
+                        7.5,
+                        6.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "up": {
+                    "uv": [
+                        6.0,
+                        4.0,
+                        7.5,
+                        5.5
+                    ],
+                    "texture": "#layer0"
+                },
+                "down": {
+                    "uv": [
+                        6.0,
+                        4.0,
+                        7.5,
+                        5.5
+                    ],
+                    "texture": "#layer0"
+                }
+            }
+        },
+        {
+            "name": "crossguard_right_inner",
+            "from": [
+                9.2,
+                2.0,
+                7.3
+            ],
+            "to": [
+                10.8,
+                3.4,
+                8.7
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        3.0,
+                        4.0,
+                        4.5,
+                        7.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "south": {
+                    "uv": [
+                        3.0,
+                        4.0,
+                        4.5,
+                        7.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "east": {
+                    "uv": [
+                        6.0,
+                        4.0,
+                        7.5,
+                        6.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "west": {
+                    "uv": [
+                        6.0,
+                        4.0,
+                        7.5,
+                        6.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "up": {
+                    "uv": [
+                        6.0,
+                        4.0,
+                        7.5,
+                        5.5
+                    ],
+                    "texture": "#layer0"
+                },
+                "down": {
+                    "uv": [
+                        6.0,
+                        4.0,
+                        7.5,
+                        5.5
+                    ],
+                    "texture": "#layer0"
+                }
+            }
+        },
+        {
+            "name": "crossguard_right_mid",
+            "from": [
+                10.6,
+                2.8,
+                7.4
+            ],
+            "to": [
+                12.0,
+                4.6,
+                8.6
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        3.5,
+                        4.0,
+                        5.0,
+                        7.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "south": {
+                    "uv": [
+                        3.5,
+                        4.0,
+                        5.0,
+                        7.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "east": {
+                    "uv": [
+                        6.0,
+                        4.0,
+                        7.5,
+                        6.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "west": {
+                    "uv": [
+                        6.0,
+                        4.0,
+                        7.5,
+                        6.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "up": {
+                    "uv": [
+                        6.0,
+                        4.0,
+                        7.5,
+                        5.5
+                    ],
+                    "texture": "#layer0"
+                },
+                "down": {
+                    "uv": [
+                        6.0,
+                        4.0,
+                        7.5,
+                        5.5
+                    ],
+                    "texture": "#layer0"
+                }
+            }
+        },
+        {
+            "name": "crossguard_right_tip",
+            "from": [
+                11.7,
+                4.2,
+                7.5
+            ],
+            "to": [
+                12.7,
+                6.4,
+                8.5
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        4.0,
+                        4.0,
+                        6.0,
+                        7.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "south": {
+                    "uv": [
+                        4.0,
+                        4.0,
+                        6.0,
+                        7.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "east": {
+                    "uv": [
+                        6.0,
+                        4.0,
+                        7.5,
+                        6.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "west": {
+                    "uv": [
+                        6.0,
+                        4.0,
+                        7.5,
+                        6.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "up": {
+                    "uv": [
+                        6.0,
+                        4.0,
+                        7.5,
+                        5.5
+                    ],
+                    "texture": "#layer0"
+                },
+                "down": {
+                    "uv": [
+                        6.0,
+                        4.0,
+                        7.5,
+                        5.5
+                    ],
+                    "texture": "#layer0"
+                }
+            }
+        },
+        {
+            "name": "blade_main_solid",
+            "from": [
+                6.9,
+                2.0,
+                7.7
+            ],
+            "to": [
+                9.1,
+                24.5,
+                8.3
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        0.0,
+                        6.0,
+                        4.0,
+                        16.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "south": {
+                    "uv": [
+                        0.0,
+                        6.0,
+                        4.0,
+                        16.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "east": {
+                    "uv": [
+                        8.0,
+                        6.0,
+                        8.6,
+                        16.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "west": {
+                    "uv": [
+                        8.0,
+                        6.0,
+                        8.6,
+                        16.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "down": {
+                    "uv": [
+                        0.0,
+                        6.0,
+                        4.0,
+                        7.0
+                    ],
+                    "texture": "#layer0"
+                }
+            }
+        },
+        {
+            "name": "blade_taper_sec1",
+            "from": [
+                7.2,
+                24.3,
+                7.72
+            ],
+            "to": [
+                8.8,
+                27.2,
+                8.28
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        4.0,
+                        7.0,
+                        6.5,
+                        11.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "south": {
+                    "uv": [
+                        4.0,
+                        7.0,
+                        6.5,
+                        11.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "east": {
+                    "uv": [
+                        8.0,
+                        7.0,
+                        8.6,
+                        11.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "west": {
+                    "uv": [
+                        8.0,
+                        7.0,
+                        8.6,
+                        11.0
+                    ],
+                    "texture": "#layer0"
+                }
+            }
+        },
+        {
+            "name": "blade_taper_sec2",
+            "from": [
+                7.5,
+                27.0,
+                7.75
+            ],
+            "to": [
+                8.5,
+                29.4,
+                8.25
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        4.5,
+                        11.0,
+                        6.0,
+                        14.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "south": {
+                    "uv": [
+                        4.5,
+                        11.0,
+                        6.0,
+                        14.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "east": {
+                    "uv": [
+                        8.0,
+                        11.0,
+                        8.6,
+                        14.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "west": {
+                    "uv": [
+                        8.0,
+                        11.0,
+                        8.6,
+                        14.0
+                    ],
+                    "texture": "#layer0"
+                }
+            }
+        },
+        {
+            "name": "blade_tip_apex",
+            "from": [
+                7.7,
+                29.2,
+                7.8
+            ],
+            "to": [
+                8.3,
+                30.8,
+                8.2
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        5.0,
+                        14.0,
+                        5.8,
+                        16.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "south": {
+                    "uv": [
+                        5.0,
+                        14.0,
+                        5.8,
+                        16.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "east": {
+                    "uv": [
+                        8.0,
+                        14.0,
+                        8.6,
+                        16.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "west": {
+                    "uv": [
+                        8.0,
+                        14.0,
+                        8.6,
+                        16.0
+                    ],
+                    "texture": "#layer0"
+                },
+                "up": {
+                    "uv": [
+                        5.0,
+                        15.0,
+                        5.8,
+                        16.0
+                    ],
+                    "texture": "#layer0"
+                }
+            }
+        }
+    ],
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [
+                0,
+                -90,
+                10
+            ],
+            "translation": [
+                0,
+                5.5,
+                0.5
+            ],
+            "scale": [
+                0.72,
+                0.72,
+                0.72
+            ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [
+                0,
+                90,
+                -10
+            ],
+            "translation": [
+                0,
+                5.5,
+                0.5
+            ],
+            "scale": [
+                0.72,
+                0.72,
+                0.72
+            ]
+        },
+        "firstperson_righthand": {
+            "rotation": [
+                0,
+                -90,
+                -20
+            ],
+            "translation": [
+                1.13,
+                2.2,
+                1.13
+            ],
+            "scale": [
+                0.65,
+                0.65,
+                0.65
+            ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [
+                0,
+                90,
+                20
+            ],
+            "translation": [
+                1.13,
+                2.2,
+                1.13
+            ],
+            "scale": [
+                0.65,
+                0.65,
+                0.65
+            ]
+        },
+        "ground": {
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "translation": [
+                0,
+                2.5,
+                0
+            ],
+            "scale": [
+                0.45,
+                0.45,
+                0.45
+            ]
+        },
+        "gui": {
+            "rotation": [
+                0,
+                0,
+                -45
+            ],
+            "translation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.46,
+                0.46,
+                0.46
+            ]
+        },
+        "fixed": {
+            "rotation": [
+                0,
+                180,
+                0
+            ],
+            "translation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.6,
+                0.6,
+                0.6
+            ]
+        }
+    }
+}
